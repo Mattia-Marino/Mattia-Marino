@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋
+I'm a computer engineering student, currently taking my master's degree at University of Sannio. Trying to make the world a better place one commit at a time.
+
+## My GitHub Stats
+<img alt="my stats" align="left" height="200px" src="https://github-readme-stats-one-xi-78.vercel.app/api?username=Mattia-Marino&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img alt="top langs" align="left" height="200px" src="https://github-readme-stats-one-xi-78.vercel.app/api/top-langs/?username=Mattia-Marino&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=WIR-Project&hide=TeX"/>
 
 <!--
 **Mattia-Marino/Mattia-Marino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
